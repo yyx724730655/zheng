@@ -31,5 +31,7 @@
         <module>zheng-api</module>
         <module>zheng-message</module>
         <module>zheng-demo</module>
+        <module>zheng-yyx</module>
+        <module>zheng-yyx-playssm</module>
     </modules>
 </project>
